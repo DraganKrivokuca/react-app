@@ -62,7 +62,7 @@ class EventDashboard extends Component {
   state = {
       events: eventsDashboard,
       isOpen: false
-    }
+    };
 
 
   
