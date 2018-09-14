@@ -72,6 +72,6 @@ const initialState = [
       [CREATE_EVENT]: createEvent,
       [UPDATE_EVENT]: updateEvent,
       [DELETE_EVENT]: deleteEvent
-  })
+  });
   
   
